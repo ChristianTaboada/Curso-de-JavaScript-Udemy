@@ -28,6 +28,7 @@ window.addEventListener('load', function(){
         p_apellidos.innerHTML = apellidos;
         p_edad.innerHTML = edad;
         // Probando el maldito commit
+        /// otra vez ...
 
         /*
         var datos_usuario = [nombre, apellidos, edad];
